@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ContaTerminal {
+public class contaTerminal {
     public static void main(String[] args) throws Exception {
     String agencia;
     String nomeCliente;
